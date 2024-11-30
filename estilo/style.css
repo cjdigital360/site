@@ -30,7 +30,7 @@ header {
     justify-content: center;
 }
 
-aside {
+nav {
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -45,6 +45,11 @@ aside {
 
 .icones>a {
     padding: 10px;
+}
+
+video {
+    display: block;
+    margin: auto;
 }
 
 footer {
